@@ -44,7 +44,7 @@ class Body extends StatelessWidget {
           ProfilePic(),
           SizedBox(height: 20),
           Text(
-            'Ayoub Khenfouf',
+            'Merouane Kanoune',
             style: TextStyle(
               color: Color(0xFF0C4E8C),
               fontSize: getProportionateScreenWidth(20),
